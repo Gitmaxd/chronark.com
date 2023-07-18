@@ -35,17 +35,9 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-				Hello! I'm Rick, a seasoned full stack developer specializing in crafting serverless and open source solutions. I'm the proud founder of the  {" "}
-					<Link
-						target="_blank"
-						href="https://slicie.com"
-						className="underline duration-500 hover:text-zinc-300"
-					>
-						Slicie autoscaling cloud platform
-					</Link>
-
+				Hello! I'm Rick, a full stack developer specializing in AGI, serverless and open source solutions. 
 					<br />
-					, and currently, I'm immersed in the exciting world of research at {" "}
+					I'm immersed in the exciting world of research at {" "}
 					<Link
 						target="_blank"
 						href="https://agifront.com"
