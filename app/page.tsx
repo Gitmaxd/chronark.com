@@ -35,18 +35,17 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Rick, I'm a full stack developer building serverless and open source
-					solutions anf founder of {" "}
+				Hello! I'm Rick, a seasoned full stack developer specializing in crafting serverless and open source solutions. I'm the proud founder of the  {" "}
 					<Link
 						target="_blank"
 						href="https://slicie.com"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						Upstash
+						Slicie autoscaling cloud platform
 					</Link>
 
 					<br />
-					and working on{" "}
+					, and currently, I'm immersed in the exciting world of research at {" "}
 					<Link
 						target="_blank"
 						href="https://agifront.com"
@@ -54,7 +53,7 @@ export default function Home() {
 					>
 						AGI Front
 					</Link>{" "}
-					for research.
+					. My journey in tech is a continuous exploration, and I'm thrilled to share it with you.
 				</h2>
 			</div>
 		</div>
