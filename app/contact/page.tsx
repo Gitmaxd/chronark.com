@@ -57,7 +57,7 @@ export default function Example() {
 						</Card>
 					))}
 				</div>
-			</div>
+			</div><div className="center"><p>test</p></div>
 		</div>
 	);
 }
