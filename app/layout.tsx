@@ -6,16 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
+		default: "AGIFront.com",
 		template: "%s | chronark.com",
 	},
 	description: "Full Stack developer and founder of Slicie.com",
 	openGraph: {
-		title: "chronark.com",
+		title: "agifront.com",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"Full stack web developer and founder of Slicie.com. I love to build things and learn new things.",
+		url: "https://agifront.com",
+		siteName: "AGIFront.com",
 		images: [
 			{
 				url: "/og.png",
