@@ -37,14 +37,7 @@ export default function Home() {
 				<h2 className="text-sm text-zinc-500 ">
 				Hello! I'm Rick, a full stack developer specializing in AGI, serverless and open source solutions. 
 					<br />
-					I'm immersed in the exciting world of research at {" "}
-					<Link
-						target="_blank"
-						href="https://agifront.com"
-						className="underline duration-500 hover:text-zinc-300"
-					>
-						AGI Front
-					</Link>{" "}
+					I'm immersed in the exciting world of research at AGI Front
 					. My journey in tech is a continuous exploration, and I'm thrilled to share it with you.
 				</h2>
 			</div>
